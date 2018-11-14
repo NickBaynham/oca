@@ -7,14 +7,13 @@ public class Strings {
     public void test() {
         String string = "";
         string = "Hello, World!";
+        System.out.println(string);
     }
 
     @Test
     public void test2() {
-        String s = "abcdefg";
-        s = "Hello, World!";
+        String s = "Hello, World!";
         String s2 = s;
-        System.out.println(s2);
         s2 = s.concat(" but wait, there's more!!!");
         System.out.println(s2);
         System.out.println(s);
@@ -25,7 +24,7 @@ public class Strings {
         String java = "Java";
         System.out.println(java);
         System.out.println(java.toUpperCase());
-        String oracle = java.replace('a','x');
+                    String oracle = java.replace('a','x');
         System.out.println(oracle);
     }
 
@@ -86,7 +85,7 @@ public class Strings {
     public void substring_example() {
         String name = "Scott Steele";
         String first = name.substring(0, 5);
-        String last = name.substring(6, name.length());
+        String last = name.substring(6);  // when one arg is given, it's the remainder of the string starting with Index
         System.out.println("Name: " + name + " First: " + first + " Last: " + last);
     }
 
