@@ -33,5 +33,20 @@ public class InfiniteLoopExample {
         int i = 0;
         i++;
         System.out.println("i: " + i);
+
+        int j = 0;
+        int k = 6 + j++;
+        System.out.println("j: " + j);
+        System.out.println("k: " + k);
+
+    }
+
+    @Test
+    public void increments() {
+        int i = 0, j = 0;
+        i++;
+        ++j;
+        System.out.println("i: " + i);
+        System.out.println("j: " + j);
     }
 }

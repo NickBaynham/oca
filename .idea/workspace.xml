@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/chapter1/WaterBottle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/chapter1/WaterBottle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="InfiniteLoopExample.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            <state relative-caret-position="400">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -167,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.InfiniteLoopExample.postIncrement">
+  <component name="RunManager" selected="JUnit.InfiniteLoopExample.increments">
     <configuration name="WaterBottle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oca.chapter1.WaterBottle" />
       <module name="certification" />
@@ -183,6 +182,23 @@
       <option name="PACKAGE_NAME" value="oca.chapter1" />
       <option name="MAIN_CLASS_NAME" value="oca.chapter1.InfiniteLoopExample" />
       <option name="METHOD_NAME" value="Assignment" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="InfiniteLoopExample.increments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="certification" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.chapter1" />
+      <option name="MAIN_CLASS_NAME" value="oca.chapter1.InfiniteLoopExample" />
+      <option name="METHOD_NAME" value="increments" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -217,23 +233,6 @@
       <option name="PACKAGE_NAME" value="oca.chapter1" />
       <option name="MAIN_CLASS_NAME" value="oca.chapter1.InfiniteLoopExample" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="StringBuilders.sb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="certification" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.chapter6" />
-      <option name="MAIN_CLASS_NAME" value="oca.chapter6.StringBuilders" />
-      <option name="METHOD_NAME" value="sb" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -283,19 +282,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.StringBuilders.sb" />
       <item itemvalue="Application.WaterBottle" />
       <item itemvalue="JUnit.InfiniteLoopExample.test" />
       <item itemvalue="JUnit.InfiniteLoopExample.Assignment" />
       <item itemvalue="JUnit.InfiniteLoopExample.postIncrement" />
+      <item itemvalue="JUnit.InfiniteLoopExample.increments" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InfiniteLoopExample.postIncrement" />
+        <item itemvalue="JUnit.InfiniteLoopExample.increments" />
         <item itemvalue="JUnit.InfiniteLoopExample.Assignment" />
+        <item itemvalue="JUnit.InfiniteLoopExample.postIncrement" />
         <item itemvalue="JUnit.InfiniteLoopExample.test" />
         <item itemvalue="Application.WaterBottle" />
-        <item itemvalue="JUnit.StringBuilders.sb" />
       </list>
     </recent_temporary>
   </component>
@@ -339,24 +338,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Calendars_dateTime - 2018.09.04 at 13h 55m 02s.xml">
-      <configuration name="Calendars.dateTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Calendars_dateTime - 2018.09.04 at 13h 56m 39s.xml">
-      <configuration name="Calendars.dateTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Calendars_dateTime - 2018.09.04 at 13h 58m 21s.xml">
-      <configuration name="Calendars.dateTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Calendars_dateTime - 2018.09.04 at 14h 00m 19s.xml">
-      <configuration name="Calendars.dateTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringBuilders_sb - 2018.11.14 at 14h 17m 38s.xml">
-      <configuration name="StringBuilders.sb" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringBuilders_sb - 2018.11.14 at 14h 18m 20s.xml">
-      <configuration name="StringBuilders.sb" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="InfiniteLoopExample_test - 2018.11.28 at 08h 57m 12s.xml">
       <configuration name="InfiniteLoopExample.test" configurationId="JUnit" />
     </history-entry>
@@ -367,6 +348,24 @@
       <configuration name="InfiniteLoopExample.Assignment" configurationId="JUnit" />
     </history-entry>
     <history-entry file="InfiniteLoopExample_Assignment - 2018.11.28 at 09h 00m 06s.xml">
+      <configuration name="InfiniteLoopExample.Assignment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InfiniteLoopExample_postIncrement - 2018.11.28 at 09h 01m 31s.xml">
+      <configuration name="InfiniteLoopExample.postIncrement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InfiniteLoopExample_postIncrement - 2018.11.28 at 09h 09m 48s.xml">
+      <configuration name="InfiniteLoopExample.postIncrement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InfiniteLoopExample_postIncrement - 2018.11.28 at 09h 15m 17s.xml">
+      <configuration name="InfiniteLoopExample.postIncrement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InfiniteLoopExample_postIncrement - 2018.11.28 at 09h 16m 17s.xml">
+      <configuration name="InfiniteLoopExample.postIncrement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InfiniteLoopExample_postIncrement - 2018.11.28 at 09h 16m 59s.xml">
+      <configuration name="InfiniteLoopExample.postIncrement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InfiniteLoopExample_Assignment - 2018.11.28 at 09h 18m 22s.xml">
       <configuration name="InfiniteLoopExample.Assignment" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -552,8 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        <state relative-caret-position="400">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
         </state>
       </provider>
     </entry>
