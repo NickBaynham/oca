@@ -18,7 +18,7 @@ public class InfiniteLoopExample {
     @Test
     public void Assignment() {
         int i = 0;
-        i = i++;
+        i = i++;  // You can't use post increment where the assignment variable is also used on the left side, because it will be discarded: special case!
         System.out.println("i: " + i);
 
         int j = 0;
