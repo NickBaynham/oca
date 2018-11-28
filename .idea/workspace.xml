@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/chapter1/WaterBottle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/chapter1/WaterBottle.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,12 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Strings.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java">
+    <leaf>
+      <file leaf-file-name="InfiniteLoopExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+            <state relative-caret-position="425">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -45,6 +47,8 @@
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/Calendars.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/StringBuilders.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/chapter1/WaterBottle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java" />
       </list>
     </option>
   </component>
@@ -67,6 +71,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,6 +121,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="certification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="certification" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oca" type="462c0819:PsiDirectoryNode" />
               <item name="chapter2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -130,8 +145,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WaterBottle">
+  <component name="RunManager" selected="JUnit.InfiniteLoopExample.postIncrement">
     <configuration name="WaterBottle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oca.chapter1.WaterBottle" />
       <module name="certification" />
@@ -163,13 +176,13 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Calendars.dateTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InfiniteLoopExample.Assignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="certification" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.chapter6" />
-      <option name="MAIN_CLASS_NAME" value="oca.chapter6.Calendars" />
-      <option name="METHOD_NAME" value="dateTime" />
+      <option name="PACKAGE_NAME" value="oca.chapter1" />
+      <option name="MAIN_CLASS_NAME" value="oca.chapter1.InfiniteLoopExample" />
+      <option name="METHOD_NAME" value="Assignment" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -180,30 +193,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Calendars.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InfiniteLoopExample.postIncrement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="certification" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.chapter6" />
-      <option name="MAIN_CLASS_NAME" value="oca.chapter6.Calendars" />
+      <option name="PACKAGE_NAME" value="oca.chapter1" />
+      <option name="MAIN_CLASS_NAME" value="oca.chapter1.InfiniteLoopExample" />
+      <option name="METHOD_NAME" value="postIncrement" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="InfiniteLoopExample.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="certification" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.chapter1" />
+      <option name="MAIN_CLASS_NAME" value="oca.chapter1.InfiniteLoopExample" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="StringBuilders.methods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="certification" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.chapter6" />
-      <option name="MAIN_CLASS_NAME" value="oca.chapter6.StringBuilders" />
-      <option name="METHOD_NAME" value="methods" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -270,19 +283,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.StringBuilders.methods" />
-      <item itemvalue="JUnit.Calendars.test" />
-      <item itemvalue="JUnit.Calendars.dateTime" />
       <item itemvalue="JUnit.StringBuilders.sb" />
       <item itemvalue="Application.WaterBottle" />
+      <item itemvalue="JUnit.InfiniteLoopExample.test" />
+      <item itemvalue="JUnit.InfiniteLoopExample.Assignment" />
+      <item itemvalue="JUnit.InfiniteLoopExample.postIncrement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InfiniteLoopExample.postIncrement" />
+        <item itemvalue="JUnit.InfiniteLoopExample.Assignment" />
+        <item itemvalue="JUnit.InfiniteLoopExample.test" />
         <item itemvalue="Application.WaterBottle" />
         <item itemvalue="JUnit.StringBuilders.sb" />
-        <item itemvalue="JUnit.Calendars.dateTime" />
-        <item itemvalue="JUnit.Calendars.test" />
-        <item itemvalue="JUnit.StringBuilders.methods" />
       </list>
     </recent_temporary>
   </component>
@@ -326,18 +339,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Calendars_dateTime - 2018.09.04 at 13h 52m 13s.xml">
-      <configuration name="Calendars.dateTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Calendars_dateTime - 2018.09.04 at 13h 52m 45s.xml">
-      <configuration name="Calendars.dateTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Calendars_dateTime - 2018.09.04 at 13h 53m 45s.xml">
-      <configuration name="Calendars.dateTime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Calendars_dateTime - 2018.09.04 at 13h 54m 32s.xml">
-      <configuration name="Calendars.dateTime" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Calendars_dateTime - 2018.09.04 at 13h 55m 02s.xml">
       <configuration name="Calendars.dateTime" configurationId="JUnit" />
     </history-entry>
@@ -356,28 +357,40 @@
     <history-entry file="StringBuilders_sb - 2018.11.14 at 14h 18m 20s.xml">
       <configuration name="StringBuilders.sb" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="InfiniteLoopExample_test - 2018.11.28 at 08h 57m 12s.xml">
+      <configuration name="InfiniteLoopExample.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InfiniteLoopExample_test - 2018.11.28 at 08h 57m 27s.xml">
+      <configuration name="InfiniteLoopExample.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InfiniteLoopExample_Assignment - 2018.11.28 at 08h 58m 29s.xml">
+      <configuration name="InfiniteLoopExample.Assignment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InfiniteLoopExample_Assignment - 2018.11.28 at 09h 00m 06s.xml">
+      <configuration name="InfiniteLoopExample.Assignment" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-1928" y="-239" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3447351" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32963374" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3523454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -397,6 +410,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1734">
@@ -518,8 +538,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="714">
           <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/WaterBottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
     </entry>
