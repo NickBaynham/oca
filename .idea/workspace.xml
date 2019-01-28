@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/primitiveDataTypes/PrimitiveDataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/primitiveDataTypes/PrimitiveDataTypes.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrimitiveDataTypes.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java">
+      <file leaf-file-name="Conversions.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+            <state relative-caret-position="475">
+              <caret line="47" column="59" lean-forward="true" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -56,6 +58,7 @@
         <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageTwo/ClassOne.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/Imports2.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java" />
       </list>
     </option>
   </component>
@@ -67,10 +70,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-1754" />
+    <option name="y" value="88" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -158,56 +161,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PrimitiveDataTypes.chars">
-    <configuration name="Imports2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.otherPackages.packageOne.Imports2" />
-      <module name="oca2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Conversions.instanceOfTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ConsoleOutputExamples.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.lesson3" />
-      <option name="MAIN_CLASS_NAME" value="oca.lesson3.ConsoleOutputExamples" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ConsoleOutputExamples.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.lesson3" />
-      <option name="MAIN_CLASS_NAME" value="oca.lesson3.ConsoleOutputExamples" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="PrimitiveDataTypes.chars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Conversions.associativity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
-      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
-      <option name="METHOD_NAME" value="chars" />
+      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.Conversions" />
+      <option name="METHOD_NAME" value="associativity" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -218,13 +182,64 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PrimitiveDataTypes.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Conversions.instanceOfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
-      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
+      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.Conversions" />
+      <option name="METHOD_NAME" value="instanceOfTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Conversions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
+      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.Conversions" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Conversions.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
+      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.Conversions" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PrimitiveDataTypes.floatingPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
+      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
+      <option name="METHOD_NAME" value="floatingPoint" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -274,19 +289,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ConsoleOutputExamples.test3" />
-      <item itemvalue="JUnit.ConsoleOutputExamples.test4" />
-      <item itemvalue="Application.Imports2" />
-      <item itemvalue="JUnit.PrimitiveDataTypes.test" />
-      <item itemvalue="JUnit.PrimitiveDataTypes.chars" />
+      <item itemvalue="JUnit.PrimitiveDataTypes.floatingPoint" />
+      <item itemvalue="JUnit.Conversions.test" />
+      <item itemvalue="JUnit.Conversions.test2" />
+      <item itemvalue="JUnit.Conversions.associativity" />
+      <item itemvalue="JUnit.Conversions.instanceOfTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrimitiveDataTypes.chars" />
-        <item itemvalue="JUnit.PrimitiveDataTypes.test" />
-        <item itemvalue="Application.Imports2" />
-        <item itemvalue="JUnit.ConsoleOutputExamples.test4" />
-        <item itemvalue="JUnit.ConsoleOutputExamples.test3" />
+        <item itemvalue="JUnit.Conversions.instanceOfTest" />
+        <item itemvalue="JUnit.Conversions.test2" />
+        <item itemvalue="JUnit.Conversions.associativity" />
+        <item itemvalue="JUnit.Conversions.test" />
+        <item itemvalue="JUnit.PrimitiveDataTypes.floatingPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -330,35 +345,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConsoleOutputExamples_test - 2019.01.21 at 18h 22m 59s.xml">
-      <configuration name="ConsoleOutputExamples.test" configurationId="JUnit" />
+    <history-entry file="Conversions_test - 2019.01.28 at 18h 08m 40s.xml">
+      <configuration name="Conversions.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsoleOutputExamples_test2 - 2019.01.21 at 18h 23m 46s.xml">
-      <configuration name="ConsoleOutputExamples.test2" configurationId="JUnit" />
+    <history-entry file="Conversions_test - 2019.01.28 at 18h 09m 36s.xml">
+      <configuration name="Conversions.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsoleOutputExamples_test - 2019.01.21 at 18h 24m 22s.xml">
-      <configuration name="ConsoleOutputExamples.test" configurationId="JUnit" />
+    <history-entry file="Conversions_test - 2019.01.28 at 18h 10m 40s.xml">
+      <configuration name="Conversions.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsoleOutputExamples_test - 2019.01.21 at 18h 25m 06s.xml">
-      <configuration name="ConsoleOutputExamples.test" configurationId="JUnit" />
+    <history-entry file="Conversions_test - 2019.01.28 at 18h 12m 05s.xml">
+      <configuration name="Conversions.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsoleOutputExamples_test3 - 2019.01.21 at 18h 26m 11s.xml">
-      <configuration name="ConsoleOutputExamples.test3" configurationId="JUnit" />
+    <history-entry file="Conversions_test - 2019.01.28 at 18h 12m 25s.xml">
+      <configuration name="Conversions.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsoleOutputExamples_test3 - 2019.01.21 at 18h 27m 45s.xml">
-      <configuration name="ConsoleOutputExamples.test3" configurationId="JUnit" />
+    <history-entry file="Conversions_test - 2019.01.28 at 18h 14m 28s.xml">
+      <configuration name="Conversions.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsoleOutputExamples_test4 - 2019.01.21 at 18h 28m 50s.xml">
-      <configuration name="ConsoleOutputExamples.test4" configurationId="JUnit" />
+    <history-entry file="Conversions_test - 2019.01.28 at 18h 14m 53s.xml">
+      <configuration name="Conversions.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimitiveDataTypes_test - 2019.01.28 at 08h 32m 50s.xml">
-      <configuration name="PrimitiveDataTypes.test" configurationId="JUnit" />
+    <history-entry file="Conversions_test2 - 2019.01.28 at 18h 28m 08s.xml">
+      <configuration name="Conversions.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimitiveDataTypes_chars - 2019.01.28 at 08h 38m 42s.xml">
-      <configuration name="PrimitiveDataTypes.chars" configurationId="JUnit" />
+    <history-entry file="Conversions_associativity - 2019.01.28 at 18h 29m 41s.xml">
+      <configuration name="Conversions.associativity" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimitiveDataTypes_chars - 2019.01.28 at 08h 41m 57s.xml">
-      <configuration name="PrimitiveDataTypes.chars" configurationId="JUnit" />
+    <history-entry file="Conversions_test2 - 2019.01.28 at 18h 36m 54s.xml">
+      <configuration name="Conversions.test2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -397,7 +412,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -624,8 +639,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        <state relative-caret-position="476">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="47" column="59" lean-forward="true" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
         </state>
       </provider>
     </entry>
