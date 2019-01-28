@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/Imports2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/subPackage/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/subPackage/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageTwo/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/lesson3/ConsoleOutputExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,54 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClassOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageTwo/ClassOne.java">
+      <file leaf-file-name="PrimitiveDataTypes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/subPackage/ClassA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/subPackage/ClassB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Imports2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/Imports2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/ClassOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="51" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="51" />
+            <state relative-caret-position="543">
+              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -104,6 +55,7 @@
         <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/ClassOne.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageTwo/ClassOne.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/Imports2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" />
       </list>
     </option>
   </component>
@@ -168,60 +120,16 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="otherPackages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="otherPackages" type="462c0819:PsiDirectoryNode" />
-              <item name="packageOne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="otherPackages" type="462c0819:PsiDirectoryNode" />
-              <item name="packageOne" type="462c0819:PsiDirectoryNode" />
-              <item name="subPackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="otherPackages" type="462c0819:PsiDirectoryNode" />
-              <item name="packageTwo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
               <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oca2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oca" type="462c0819:PsiDirectoryNode" />
+              <item name="primitiveDataTypes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Imports2">
+  <component name="RunManager" selected="JUnit.PrimitiveDataTypes.chars">
     <configuration name="Imports2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.otherPackages.packageOne.Imports2" />
       <module name="oca2" />
@@ -258,40 +166,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="ConsoleOutputExamples.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.lesson3" />
-      <option name="MAIN_CLASS_NAME" value="oca.lesson3.ConsoleOutputExamples" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ConsoleOutputExamples.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.lesson3" />
-      <option name="MAIN_CLASS_NAME" value="oca.lesson3.ConsoleOutputExamples" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="ConsoleOutputExamples.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
@@ -317,6 +191,40 @@
       <option name="PACKAGE_NAME" value="oca.lesson3" />
       <option name="MAIN_CLASS_NAME" value="oca.lesson3.ConsoleOutputExamples" />
       <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PrimitiveDataTypes.chars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
+      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
+      <option name="METHOD_NAME" value="chars" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PrimitiveDataTypes.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
+      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -366,19 +274,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ConsoleOutputExamples.test" />
-      <item itemvalue="JUnit.ConsoleOutputExamples.test2" />
       <item itemvalue="JUnit.ConsoleOutputExamples.test3" />
       <item itemvalue="JUnit.ConsoleOutputExamples.test4" />
       <item itemvalue="Application.Imports2" />
+      <item itemvalue="JUnit.PrimitiveDataTypes.test" />
+      <item itemvalue="JUnit.PrimitiveDataTypes.chars" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrimitiveDataTypes.chars" />
+        <item itemvalue="JUnit.PrimitiveDataTypes.test" />
         <item itemvalue="Application.Imports2" />
         <item itemvalue="JUnit.ConsoleOutputExamples.test4" />
         <item itemvalue="JUnit.ConsoleOutputExamples.test3" />
-        <item itemvalue="JUnit.ConsoleOutputExamples.test" />
-        <item itemvalue="JUnit.ConsoleOutputExamples.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -422,15 +330,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConsoleOutputExamples_test - 2019.01.21 at 18h 20m 57s.xml">
-      <configuration name="ConsoleOutputExamples.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsoleOutputExamples_test - 2019.01.21 at 18h 21m 42s.xml">
-      <configuration name="ConsoleOutputExamples.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsoleOutputExamples_test - 2019.01.21 at 18h 22m 07s.xml">
-      <configuration name="ConsoleOutputExamples.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ConsoleOutputExamples_test - 2019.01.21 at 18h 22m 59s.xml">
       <configuration name="ConsoleOutputExamples.test" configurationId="JUnit" />
     </history-entry>
@@ -452,6 +351,15 @@
     <history-entry file="ConsoleOutputExamples_test4 - 2019.01.21 at 18h 28m 50s.xml">
       <configuration name="ConsoleOutputExamples.test4" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrimitiveDataTypes_test - 2019.01.28 at 08h 32m 50s.xml">
+      <configuration name="PrimitiveDataTypes.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimitiveDataTypes_chars - 2019.01.28 at 08h 38m 42s.xml">
+      <configuration name="PrimitiveDataTypes.chars" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimitiveDataTypes_chars - 2019.01.28 at 08h 41m 57s.xml">
+      <configuration name="PrimitiveDataTypes.chars" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -464,7 +372,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30299667" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35783133" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3573807" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35607675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -682,6 +590,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/Imports2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/subPackage/ClassB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/subPackage/ClassA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageTwo/ClassOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -693,27 +622,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/subPackage/ClassA.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/subPackage/ClassB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/Imports2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="543">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>
