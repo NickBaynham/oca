@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/ExceptionHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/primitiveDataTypes/PrimitiveDataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/primitiveDataTypes/PrimitiveDataTypes.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,11 +16,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Conversions.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java">
+      <file leaf-file-name="ExceptionHandling.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/ExceptionHandling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="47" column="59" lean-forward="true" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+            <state relative-caret-position="373">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#49#73#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/Imports2.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/ExceptionHandling.java" />
       </list>
     </option>
   </component>
@@ -123,7 +126,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
@@ -161,60 +164,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Conversions.instanceOfTest">
+  <component name="RunManager" selected="JUnit.Conversions.test2">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Conversions.associativity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
-      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.Conversions" />
-      <option name="METHOD_NAME" value="associativity" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Conversions.instanceOfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
-      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.Conversions" />
-      <option name="METHOD_NAME" value="instanceOfTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Conversions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
-      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.Conversions" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="Conversions.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
@@ -233,13 +185,64 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PrimitiveDataTypes.floatingPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionHandling.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
-      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
-      <option name="METHOD_NAME" value="floatingPoint" />
+      <option name="PACKAGE_NAME" value="oca.JavaBasics" />
+      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.ExceptionHandling" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ExceptionHandling.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.JavaBasics" />
+      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.ExceptionHandling" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ExceptionHandling.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.JavaBasics" />
+      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.ExceptionHandling" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ExceptionHandling.tryWithResources" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.JavaBasics" />
+      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.ExceptionHandling" />
+      <option name="METHOD_NAME" value="tryWithResources" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -289,19 +292,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.PrimitiveDataTypes.floatingPoint" />
-      <item itemvalue="JUnit.Conversions.test" />
+      <item itemvalue="JUnit.ExceptionHandling.test" />
+      <item itemvalue="JUnit.ExceptionHandling.test2" />
+      <item itemvalue="JUnit.ExceptionHandling.test3" />
+      <item itemvalue="JUnit.ExceptionHandling.tryWithResources" />
       <item itemvalue="JUnit.Conversions.test2" />
-      <item itemvalue="JUnit.Conversions.associativity" />
-      <item itemvalue="JUnit.Conversions.instanceOfTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Conversions.instanceOfTest" />
         <item itemvalue="JUnit.Conversions.test2" />
-        <item itemvalue="JUnit.Conversions.associativity" />
-        <item itemvalue="JUnit.Conversions.test" />
-        <item itemvalue="JUnit.PrimitiveDataTypes.floatingPoint" />
+        <item itemvalue="JUnit.ExceptionHandling.tryWithResources" />
+        <item itemvalue="JUnit.ExceptionHandling.test3" />
+        <item itemvalue="JUnit.ExceptionHandling.test" />
+        <item itemvalue="JUnit.ExceptionHandling.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -345,34 +348,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Conversions_test - 2019.01.28 at 18h 08m 40s.xml">
-      <configuration name="Conversions.test" configurationId="JUnit" />
+    <history-entry file="ExceptionHandling_test2 - 2019.01.29 at 10h 15m 42s.xml">
+      <configuration name="ExceptionHandling.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Conversions_test - 2019.01.28 at 18h 09m 36s.xml">
-      <configuration name="Conversions.test" configurationId="JUnit" />
+    <history-entry file="ExceptionHandling_test - 2019.01.29 at 10h 15m 56s.xml">
+      <configuration name="ExceptionHandling.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Conversions_test - 2019.01.28 at 18h 10m 40s.xml">
-      <configuration name="Conversions.test" configurationId="JUnit" />
+    <history-entry file="ExceptionHandling_test - 2019.01.29 at 10h 16m 39s.xml">
+      <configuration name="ExceptionHandling.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Conversions_test - 2019.01.28 at 18h 12m 05s.xml">
-      <configuration name="Conversions.test" configurationId="JUnit" />
+    <history-entry file="ExceptionHandling_test3 - 2019.01.29 at 10h 20m 15s.xml">
+      <configuration name="ExceptionHandling.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Conversions_test - 2019.01.28 at 18h 12m 25s.xml">
-      <configuration name="Conversions.test" configurationId="JUnit" />
+    <history-entry file="ExceptionHandling_test2 - 2019.01.29 at 10h 20m 21s.xml">
+      <configuration name="ExceptionHandling.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Conversions_test - 2019.01.28 at 18h 14m 28s.xml">
-      <configuration name="Conversions.test" configurationId="JUnit" />
+    <history-entry file="ExceptionHandling_test2 - 2019.01.29 at 10h 20m 41s.xml">
+      <configuration name="ExceptionHandling.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Conversions_test - 2019.01.28 at 18h 14m 53s.xml">
-      <configuration name="Conversions.test" configurationId="JUnit" />
+    <history-entry file="ExceptionHandling_test - 2019.01.29 at 10h 21m 00s.xml">
+      <configuration name="ExceptionHandling.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Conversions_test2 - 2019.01.28 at 18h 28m 08s.xml">
-      <configuration name="Conversions.test2" configurationId="JUnit" />
+    <history-entry file="ExceptionHandling_test3 - 2019.01.29 at 10h 22m 21s.xml">
+      <configuration name="ExceptionHandling.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Conversions_associativity - 2019.01.28 at 18h 29m 41s.xml">
-      <configuration name="Conversions.associativity" configurationId="JUnit" />
+    <history-entry file="ExceptionHandling_tryWithResources - 2019.01.29 at 10h 32m 17s.xml">
+      <configuration name="ExceptionHandling.tryWithResources" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Conversions_test2 - 2019.01.28 at 18h 36m 54s.xml">
+    <history-entry file="Conversions_test2 - 2019.01.29 at 10h 47m 03s.xml">
       <configuration name="Conversions.test2" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -637,17 +640,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="271">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="47" column="59" lean-forward="true" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+        <state relative-caret-position="476">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/ExceptionHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#49#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
