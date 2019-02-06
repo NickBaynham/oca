@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/CreatingObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PlaneCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/TrigCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codingExamples/Interpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/oop/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/oop/TestPlaneCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/oop/TestShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/oop/TestTrigCircle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,20 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,6 +61,16 @@
         <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/CreatingObjects.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/LambdaExpressions.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codingExamples/Interpreter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/TrigCircle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestCircle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestTrigCircle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestPlaneCircle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PlaneCircle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Circle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestShapes.java" />
       </list>
     </option>
   </component>
@@ -79,10 +82,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1754" />
-    <option name="y" value="88" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -90,8 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,22 +184,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="objects" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,17 +215,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Arrays.arrayUtils">
+  <component name="RunManager" selected="JUnit.TestShapes.castingMadness">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Arrays.arrayInitialization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCircle.testCircle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.JavaBasics.objects" />
-      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.objects.Arrays" />
-      <option name="METHOD_NAME" value="arrayInitialization" />
+      <option name="PACKAGE_NAME" value="oca.oop" />
+      <option name="MAIN_CLASS_NAME" value="oca.oop.TestCircle" />
+      <option name="METHOD_NAME" value="testCircle" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -243,13 +236,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Arrays.arrayUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPlaneCircle.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.JavaBasics.objects" />
-      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.objects.Arrays" />
-      <option name="METHOD_NAME" value="arrayUtils" />
+      <option name="PACKAGE_NAME" value="oca.oop" />
+      <option name="MAIN_CLASS_NAME" value="oca.oop.TestPlaneCircle" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -260,13 +253,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Arrays.iteratingArrays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestShapes.castingMadness" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.JavaBasics.objects" />
-      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.objects.Arrays" />
-      <option name="METHOD_NAME" value="iteratingArrays" />
+      <option name="PACKAGE_NAME" value="oca.oop" />
+      <option name="MAIN_CLASS_NAME" value="oca.oop.TestShapes" />
+      <option name="METHOD_NAME" value="castingMadness" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -277,13 +270,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Arrays.testPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestShapes.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.JavaBasics.objects" />
-      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.objects.Arrays" />
-      <option name="METHOD_NAME" value="testPoints" />
+      <option name="PACKAGE_NAME" value="oca.oop" />
+      <option name="MAIN_CLASS_NAME" value="oca.oop.TestShapes" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -294,13 +287,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LambdaExpressions.lambdas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTrigCircle.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.JavaBasics.objects" />
-      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.objects.LambdaExpressions" />
-      <option name="METHOD_NAME" value="lambdas" />
+      <option name="PACKAGE_NAME" value="oca.oop" />
+      <option name="MAIN_CLASS_NAME" value="oca.oop.TestTrigCircle" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -350,19 +343,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LambdaExpressions.lambdas" />
-      <item itemvalue="JUnit.Arrays.testPoints" />
-      <item itemvalue="JUnit.Arrays.arrayInitialization" />
-      <item itemvalue="JUnit.Arrays.iteratingArrays" />
-      <item itemvalue="JUnit.Arrays.arrayUtils" />
+      <item itemvalue="JUnit.TestCircle.testCircle" />
+      <item itemvalue="JUnit.TestTrigCircle.test" />
+      <item itemvalue="JUnit.TestPlaneCircle.test" />
+      <item itemvalue="JUnit.TestShapes.test" />
+      <item itemvalue="JUnit.TestShapes.castingMadness" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Arrays.arrayUtils" />
-        <item itemvalue="JUnit.Arrays.iteratingArrays" />
-        <item itemvalue="JUnit.Arrays.arrayInitialization" />
-        <item itemvalue="JUnit.Arrays.testPoints" />
-        <item itemvalue="JUnit.LambdaExpressions.lambdas" />
+        <item itemvalue="JUnit.TestShapes.castingMadness" />
+        <item itemvalue="JUnit.TestShapes.test" />
+        <item itemvalue="JUnit.TestPlaneCircle.test" />
+        <item itemvalue="JUnit.TestTrigCircle.test" />
+        <item itemvalue="JUnit.TestCircle.testCircle" />
       </list>
     </recent_temporary>
   </component>
@@ -406,40 +399,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LambdaExpressions_lambdas - 2019.01.30 at 09h 03m 46s.xml">
-      <configuration name="LambdaExpressions.lambdas" configurationId="JUnit" />
+    <history-entry file="TestCircle_testCircle - 2019.02.04 at 17h 19m 07s.xml">
+      <configuration name="TestCircle.testCircle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaExpressions_lambdas - 2019.01.30 at 09h 05m 29s.xml">
-      <configuration name="LambdaExpressions.lambdas" configurationId="JUnit" />
+    <history-entry file="TestCircle_testCircle - 2019.02.04 at 17h 21m 25s.xml">
+      <configuration name="TestCircle.testCircle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaExpressions_lambdas - 2019.01.30 at 09h 05m 47s.xml">
-      <configuration name="LambdaExpressions.lambdas" configurationId="JUnit" />
+    <history-entry file="TestCircle_testCircle - 2019.02.04 at 17h 23m 57s.xml">
+      <configuration name="TestCircle.testCircle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaExpressions_lambdas - 2019.01.30 at 09h 08m 07s.xml">
-      <configuration name="LambdaExpressions.lambdas" configurationId="JUnit" />
+    <history-entry file="TestTrigCircle_test - 2019.02.04 at 17h 27m 17s.xml">
+      <configuration name="TestTrigCircle.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arrays_testPoints - 2019.01.30 at 09h 14m 39s.xml">
-      <configuration name="Arrays.testPoints" configurationId="JUnit" />
+    <history-entry file="TestTrigCircle_test - 2019.02.04 at 17h 27m 33s.xml">
+      <configuration name="TestTrigCircle.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arrays_testPoints - 2019.01.30 at 09h 36m 50s.xml">
-      <configuration name="Arrays.testPoints" configurationId="JUnit" />
+    <history-entry file="TestTrigCircle_test - 2019.02.04 at 17h 29m 57s.xml">
+      <configuration name="TestTrigCircle.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arrays_arrayInitialization - 2019.01.30 at 09h 39m 30s.xml">
-      <configuration name="Arrays.arrayInitialization" configurationId="JUnit" />
+    <history-entry file="TestPlaneCircle_test - 2019.02.04 at 17h 35m 36s.xml">
+      <configuration name="TestPlaneCircle.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arrays_arrayInitialization - 2019.01.30 at 09h 40m 05s.xml">
-      <configuration name="Arrays.arrayInitialization" configurationId="JUnit" />
+    <history-entry file="TestPlaneCircle_test - 2019.02.04 at 17h 41m 17s.xml">
+      <configuration name="TestPlaneCircle.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arrays_arrayInitialization - 2019.01.30 at 09h 44m 50s.xml">
-      <configuration name="Arrays.arrayInitialization" configurationId="JUnit" />
+    <history-entry file="TestShapes_test - 2019.02.04 at 18h 07m 18s.xml">
+      <configuration name="TestShapes.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arrays_iteratingArrays - 2019.01.30 at 09h 48m 22s.xml">
-      <configuration name="Arrays.iteratingArrays" configurationId="JUnit" />
+    <history-entry file="TestShapes_castingMadness - 2019.02.04 at 18h 14m 17s.xml">
+      <configuration name="TestShapes.castingMadness" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
@@ -450,7 +442,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3573807" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35607675" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35927504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -473,10 +465,33 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/oop/TestCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
@@ -624,15 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/lesson2/structure/Structure.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/lesson2/Structure.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/lesson2/Lesson2Second.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -691,10 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -727,9 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -737,27 +736,120 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/Interpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/TrigCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/oop/TestTrigCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Point.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/oop/TestPlaneCircle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="442">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
           <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PlaneCircle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        <state relative-caret-position="493">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#707#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/oop/TestShapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/oop/TestCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
