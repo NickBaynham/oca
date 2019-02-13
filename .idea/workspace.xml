@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Centered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CenteredCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CenteredRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CenteredSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Positionable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Rotatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Scalable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/SuperShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Transformable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Translateable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/interfaces/TestInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Alias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PrimaryColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codingExamples/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codingExamples/NestedTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/annotations/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/enums/TestEnums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/generics/TestGenerics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/oop/TestShapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/oop/TestShapes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/interfaces/TestInterfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/interfaces/TestInterfaces.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestInterfaces.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/interfaces/TestInterfaces.java">
+      <file leaf-file-name="NestedTypes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/NestedTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,29 +36,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CenteredCircle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CenteredCircle.java">
+      <file leaf-file-name="LinkedStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/LinkedStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="340">
+              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CenteredRectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CenteredRectangle.java">
+      <file leaf-file-name="Exceptions.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/Exceptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CenteredSquare.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CenteredSquare.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="442">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,6 +63,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -82,9 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/oca/chapter2/Enums.java" />
-        <option value="$PROJECT_DIR$/src/test/java/exercises/Recursize.java" />
-        <option value="$PROJECT_DIR$/src/test/java/exercises/Recursive.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/Calendars.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/StringBuilders.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java" />
@@ -125,6 +115,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CenteredSquare.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CenteredCircle.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/interfaces/TestInterfaces.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/generics/TestGenerics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PrimaryColor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/enums/TestEnums.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Alias.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/annotations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/annotations/annotations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/annotations/Annotations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/LinkedStack.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codingExamples/NestedTypes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/Exceptions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codingExamples/Exceptions.java" />
       </list>
     </option>
   </component>
@@ -136,7 +137,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -208,7 +209,19 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="nickbaynham" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oca2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="nickbaynham" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedStack.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
@@ -229,16 +242,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="codingExamples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,16 +279,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestInterfaces.test2">
+  <component name="RunManager" selected="JUnit.Exceptions.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TestInterfaces.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Annotations.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.interfaces" />
-      <option name="MAIN_CLASS_NAME" value="oca.interfaces.TestInterfaces" />
+      <option name="PACKAGE_NAME" value="oca.annotations" />
+      <option name="MAIN_CLASS_NAME" value="oca.annotations.Annotations" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -296,29 +300,12 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestInterfaces.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Exceptions.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.interfaces" />
-      <option name="MAIN_CLASS_NAME" value="oca.interfaces.TestInterfaces" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestPlaneCircle.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.oop" />
-      <option name="MAIN_CLASS_NAME" value="oca.oop.TestPlaneCircle" />
+      <option name="PACKAGE_NAME" value="codingExamples" />
+      <option name="MAIN_CLASS_NAME" value="codingExamples.Exceptions" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -330,13 +317,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestShapes.castingMadness" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestEnums.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.oop" />
-      <option name="MAIN_CLASS_NAME" value="oca.oop.TestShapes" />
-      <option name="METHOD_NAME" value="castingMadness" />
+      <option name="PACKAGE_NAME" value="oca.enums" />
+      <option name="MAIN_CLASS_NAME" value="oca.enums.TestEnums" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -347,12 +334,29 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestShapes.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGenerics.genericsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.oop" />
-      <option name="MAIN_CLASS_NAME" value="oca.oop.TestShapes" />
+      <option name="PACKAGE_NAME" value="oca.generics" />
+      <option name="MAIN_CLASS_NAME" value="oca.generics.TestGenerics" />
+      <option name="METHOD_NAME" value="genericsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestGenerics.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.generics" />
+      <option name="MAIN_CLASS_NAME" value="oca.generics.TestGenerics" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -403,19 +407,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestPlaneCircle.test" />
-      <item itemvalue="JUnit.TestShapes.test" />
-      <item itemvalue="JUnit.TestShapes.castingMadness" />
-      <item itemvalue="JUnit.TestInterfaces.test" />
-      <item itemvalue="JUnit.TestInterfaces.test2" />
+      <item itemvalue="JUnit.TestGenerics.test" />
+      <item itemvalue="JUnit.TestGenerics.genericsTest" />
+      <item itemvalue="JUnit.TestEnums.test" />
+      <item itemvalue="JUnit.Annotations.test" />
+      <item itemvalue="JUnit.Exceptions.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestInterfaces.test2" />
-        <item itemvalue="JUnit.TestInterfaces.test" />
-        <item itemvalue="JUnit.TestShapes.castingMadness" />
-        <item itemvalue="JUnit.TestShapes.test" />
-        <item itemvalue="JUnit.TestPlaneCircle.test" />
+        <item itemvalue="JUnit.Exceptions.test" />
+        <item itemvalue="JUnit.Annotations.test" />
+        <item itemvalue="JUnit.TestEnums.test" />
+        <item itemvalue="JUnit.TestGenerics.genericsTest" />
+        <item itemvalue="JUnit.TestGenerics.test" />
       </list>
     </recent_temporary>
   </component>
@@ -459,24 +463,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestTrigCircle_test - 2019.02.04 at 17h 27m 17s.xml">
-      <configuration name="TestTrigCircle.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestTrigCircle_test - 2019.02.04 at 17h 27m 33s.xml">
-      <configuration name="TestTrigCircle.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestTrigCircle_test - 2019.02.04 at 17h 29m 57s.xml">
-      <configuration name="TestTrigCircle.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPlaneCircle_test - 2019.02.04 at 17h 35m 36s.xml">
-      <configuration name="TestPlaneCircle.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPlaneCircle_test - 2019.02.04 at 17h 41m 17s.xml">
-      <configuration name="TestPlaneCircle.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestShapes_test - 2019.02.04 at 18h 07m 18s.xml">
-      <configuration name="TestShapes.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestShapes_castingMadness - 2019.02.04 at 18h 14m 17s.xml">
       <configuration name="TestShapes.castingMadness" configurationId="JUnit" />
     </history-entry>
@@ -489,17 +475,35 @@
     <history-entry file="TestInterfaces_test2 - 2019.02.06 at 17h 43m 20s.xml">
       <configuration name="TestInterfaces.test2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestGenerics_test - 2019.02.06 at 18h 06m 05s.xml">
+      <configuration name="TestGenerics.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGenerics_test - 2019.02.06 at 18h 07m 14s.xml">
+      <configuration name="TestGenerics.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGenerics_genericsTest - 2019.02.06 at 18h 09m 29s.xml">
+      <configuration name="TestGenerics.genericsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestEnums_test - 2019.02.06 at 18h 22m 49s.xml">
+      <configuration name="TestEnums.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="annotations_test - 2019.02.07 at 08h 08m 39s.xml">
+      <configuration name="annotations.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exceptions_test - 2019.02.13 at 08h 16m 42s.xml">
+      <configuration name="Exceptions.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32963374" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30299667" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30299667" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3573807" />
       <window_info id="Designer" order="2" />
@@ -552,62 +556,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/StringBuilders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Calendars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="62" column="81" selection-start-line="62" selection-start-column="81" selection-end-line="62" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="87" column="120" selection-start-line="87" selection-start-column="120" selection-end-line="87" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/StringBuilders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Calendars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="62" column="81" selection-start-line="62" selection-start-column="81" selection-end-line="62" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/exercises/Recursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="37" lean-forward="true" selection-start-line="94" selection-start-column="37" selection-end-line="94" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -946,8 +894,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/interfaces/TestInterfaces.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        <state relative-caret-position="475">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/enums/TestEnums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PrimaryColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/generics/TestGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Alias.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/annotations/Annotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/NestedTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/Exceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
