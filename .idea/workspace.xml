@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Alias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PrimaryColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/codingExamples/Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/codingExamples/NestedTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/annotations/Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/enums/TestEnums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/generics/TestGenerics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/interfaces/TestInterfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/interfaces/TestInterfaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codingExamples/Exceptions2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,13 +36,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exceptions.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/Exceptions.java">
+      <file leaf-file-name="Exceptions2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/Exceptions2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/Calendars.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/StringBuilders.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter1/WaterBottle.java" />
@@ -126,6 +117,7 @@
         <option value="$PROJECT_DIR$/src/test/java/codingExamples/NestedTypes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/Exceptions.java" />
         <option value="$PROJECT_DIR$/src/test/java/codingExamples/Exceptions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codingExamples/Exceptions2.java" />
       </list>
     </option>
   </component>
@@ -279,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exceptions.test">
+  <component name="RunManager" selected="JUnit.Exceptions2.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -289,6 +281,23 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="oca.annotations" />
       <option name="MAIN_CLASS_NAME" value="oca.annotations.Annotations" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Exceptions2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="codingExamples" />
+      <option name="MAIN_CLASS_NAME" value="codingExamples.Exceptions2" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -351,23 +360,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestGenerics.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.generics" />
-      <option name="MAIN_CLASS_NAME" value="oca.generics.TestGenerics" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -407,19 +399,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestGenerics.test" />
       <item itemvalue="JUnit.TestGenerics.genericsTest" />
       <item itemvalue="JUnit.TestEnums.test" />
       <item itemvalue="JUnit.Annotations.test" />
       <item itemvalue="JUnit.Exceptions.test" />
+      <item itemvalue="JUnit.Exceptions2.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Exceptions2.test" />
         <item itemvalue="JUnit.Exceptions.test" />
         <item itemvalue="JUnit.Annotations.test" />
         <item itemvalue="JUnit.TestEnums.test" />
         <item itemvalue="JUnit.TestGenerics.genericsTest" />
-        <item itemvalue="JUnit.TestGenerics.test" />
       </list>
     </recent_temporary>
   </component>
@@ -463,12 +455,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestShapes_castingMadness - 2019.02.04 at 18h 14m 17s.xml">
-      <configuration name="TestShapes.castingMadness" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestInterfaces_test - 2019.02.06 at 17h 31m 40s.xml">
-      <configuration name="TestInterfaces.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestInterfaces_test2 - 2019.02.06 at 17h 40m 22s.xml">
       <configuration name="TestInterfaces.test2" configurationId="JUnit" />
     </history-entry>
@@ -493,21 +479,27 @@
     <history-entry file="Exceptions_test - 2019.02.13 at 08h 16m 42s.xml">
       <configuration name="Exceptions.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Exceptions_test - 2019.02.13 at 08h 26m 05s.xml">
+      <configuration name="Exceptions.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exceptions_test - 2019.02.13 at 08h 26m 29s.xml">
+      <configuration name="Exceptions.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30299667" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3573807" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3573807" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35927504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35927504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -556,13 +548,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="327" selection-start-line="327" selection-end-line="327" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -961,6 +946,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/Exceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/LinkedStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -968,12 +963,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/Exceptions.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/Exceptions2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
           </folding>
         </state>
       </provider>
