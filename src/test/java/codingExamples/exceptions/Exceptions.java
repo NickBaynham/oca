@@ -1,4 +1,4 @@
-package codingExamples;
+package codingExamples.exceptions;
 
 import org.junit.Test;
 
