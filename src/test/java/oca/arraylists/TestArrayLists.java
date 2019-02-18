@@ -25,6 +25,6 @@ public class TestArrayLists {
         if (c.contains("x")) System.out.println("C contains X");
         c.remove(0);
         if (! c.contains("x")) System.out.println("C no longer contains X");
-
+        System.out.println("Size is " + c.size());
     }
 }
