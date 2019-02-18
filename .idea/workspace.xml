@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,8 +18,8 @@
       <file leaf-file-name="TestArrayLists.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -468,15 +468,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestExceptions_testThrow - 2019.02.14 at 11h 45m 58s.xml">
-      <configuration name="TestExceptions.testThrow" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestExceptions_testThrow - 2019.02.14 at 11h 48m 17s.xml">
-      <configuration name="TestExceptions.testThrow" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestExceptions_custom - 2019.02.14 at 11h 54m 17s.xml">
-      <configuration name="TestExceptions.custom" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestThread_test - 2019.02.14 at 12h 04m 33s.xml">
       <configuration name="TestThread.test" configurationId="JUnit" />
     </history-entry>
@@ -498,21 +489,31 @@
     <history-entry file="TestThread_test - 2019.02.14 at 12h 15m 46s.xml">
       <configuration name="TestThread.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestArrayLists_test - 2019.02.18 at 08h 13m 02s.xml">
+      <configuration name="TestArrayLists.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayLists_test - 2019.02.18 at 08h 13m 28s.xml">
+      <configuration name="TestArrayLists.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArrayLists_test - 2019.02.18 at 08h 15m 05s.xml">
+      <configuration name="TestArrayLists.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36300638" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30299667" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3573807" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36300638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3573807" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -522,7 +523,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -922,8 +922,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
