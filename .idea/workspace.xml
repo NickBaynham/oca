@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/testExamples/Matching.java" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/vetTech/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oop/TestEncapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/dims/Dims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/lambdas/Lambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testExamples/Matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testExamples/Matching2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testExamples/TestThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/usingTables/ExperimentWithTables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/arraylists/TestArrayLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/arraylists/TestArrayLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/vetTech/TestVetTech.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/vetTech/TestVetTech.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,7 +29,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Matching2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/Matching2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matching.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/Matching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="83" column="1" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,15 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/Imports2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/ExceptionHandling.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Point.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/CreatingObjects.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/LambdaExpressions.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/Arrays.java" />
-        <option value="$PROJECT_DIR$/src/test/java/codingExamples/Interpreter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/TrigCircle.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestCircle.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestTrigCircle.java" />
@@ -81,11 +109,20 @@
         <option value="$PROJECT_DIR$/src/test/java/oop/TestSingleton.java" />
         <option value="$PROJECT_DIR$/src/test/java/codingExamples/exceptions/TestExceptions.java" />
         <option value="$PROJECT_DIR$/src/test/java/codingExamples/threads/TestThread.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/autoboxing/TestInteger.java" />
         <option value="$PROJECT_DIR$/src/test/java/oop/TestEncapsulation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/vetTech/Dog.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testExamples/TestThing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java" />
         <option value="$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/dims/Dims.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/Strings.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/lambdas/Lambdas.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java" />
+        <option value="$PROJECT_DIR$/src/test/java/usingTables/ExperimentWithTables.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testExamples/Matching2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testExamples/Matching.java" />
       </list>
     </option>
   </component>
@@ -97,7 +134,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -198,51 +235,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="threads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Recursive.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="annotations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
@@ -259,8 +252,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="autoboxing" type="462c0819:PsiDirectoryNode" />
+              <item name="testExamples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
@@ -268,106 +260,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="otherPackages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="primitiveDataTypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vetTech" type="462c0819:PsiDirectoryNode" />
+              <item name="usingTables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -404,16 +297,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestVetTech.test">
+  <component name="RunManager" selected="JUnit.Matching">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TestArrayLists.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Matching" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.arraylists" />
-      <option name="MAIN_CLASS_NAME" value="oca.arraylists.TestArrayLists" />
+      <option name="PACKAGE_NAME" value="testExamples" />
+      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Matching.another" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="testExamples" />
+      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
+      <option name="METHOD_NAME" value="another" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Matching.stream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="testExamples" />
+      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
+      <option name="METHOD_NAME" value="stream" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Matching.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="testExamples" />
+      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -425,64 +369,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestEncapsulation.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Matching.test_case_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oop" />
-      <option name="MAIN_CLASS_NAME" value="oop.TestEncapsulation" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestInteger.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.autoboxing" />
-      <option name="MAIN_CLASS_NAME" value="oca.autoboxing.TestInteger" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestInteger.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.autoboxing" />
-      <option name="MAIN_CLASS_NAME" value="oca.autoboxing.TestInteger" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestVetTech.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="vetTech" />
-      <option name="MAIN_CLASS_NAME" value="vetTech.TestVetTech" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="testExamples" />
+      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
+      <option name="METHOD_NAME" value="test_case_1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -532,19 +425,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestArrayLists.test" />
-      <item itemvalue="JUnit.TestInteger.test" />
-      <item itemvalue="JUnit.TestInteger.test2" />
-      <item itemvalue="JUnit.TestEncapsulation.test" />
-      <item itemvalue="JUnit.TestVetTech.test" />
+      <item itemvalue="JUnit.Matching.test" />
+      <item itemvalue="JUnit.Matching.stream" />
+      <item itemvalue="JUnit.Matching" />
+      <item itemvalue="JUnit.Matching.test_case_1" />
+      <item itemvalue="JUnit.Matching.another" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestVetTech.test" />
-        <item itemvalue="JUnit.TestEncapsulation.test" />
-        <item itemvalue="JUnit.TestInteger.test2" />
-        <item itemvalue="JUnit.TestInteger.test" />
-        <item itemvalue="JUnit.TestArrayLists.test" />
+        <item itemvalue="JUnit.Matching" />
+        <item itemvalue="JUnit.Matching.test_case_1" />
+        <item itemvalue="JUnit.Matching.another" />
+        <item itemvalue="JUnit.Matching.stream" />
+        <item itemvalue="JUnit.Matching.test" />
       </list>
     </recent_temporary>
   </component>
@@ -588,57 +481,58 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestInteger_test - 2019.02.18 at 18h 01m 37s.xml">
-      <configuration name="TestInteger.test" configurationId="JUnit" />
+    <history-entry file="Matching_stream - 2019.03.14 at 14h 41m 58s.xml">
+      <configuration name="Matching.stream" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestInteger_test - 2019.02.18 at 18h 01m 43s.xml">
-      <configuration name="TestInteger.test" configurationId="JUnit" />
+    <history-entry file="Matching_stream - 2019.03.14 at 14h 43m 32s.xml">
+      <configuration name="Matching.stream" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestInteger_test2 - 2019.02.18 at 18h 06m 12s.xml">
-      <configuration name="TestInteger.test2" configurationId="JUnit" />
+    <history-entry file="Matching - 2019.03.14 at 15h 11m 11s.xml">
+      <configuration name="Matching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestInteger_test2 - 2019.02.18 at 18h 07m 52s.xml">
-      <configuration name="TestInteger.test2" configurationId="JUnit" />
+    <history-entry file="Matching_test_case_1 - 2019.03.14 at 15h 12m 25s.xml">
+      <configuration name="Matching.test_case_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestEncapsulation_test - 2019.02.18 at 18h 32m 23s.xml">
-      <configuration name="TestEncapsulation.test" configurationId="JUnit" />
+    <history-entry file="Matching_test_case_1 - 2019.03.14 at 15h 12m 49s.xml">
+      <configuration name="Matching.test_case_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestEncapsulation_test - 2019.02.18 at 18h 33m 31s.xml">
-      <configuration name="TestEncapsulation.test" configurationId="JUnit" />
+    <history-entry file="Matching_test_case_1 - 2019.03.14 at 15h 13m 44s.xml">
+      <configuration name="Matching.test_case_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestEncapsulation_test - 2019.02.18 at 18h 34m 51s.xml">
-      <configuration name="TestEncapsulation.test" configurationId="JUnit" />
+    <history-entry file="Matching_another - 2019.03.14 at 15h 56m 44s.xml">
+      <configuration name="Matching.another" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestEncapsulation_test - 2019.02.18 at 18h 35m 17s.xml">
-      <configuration name="TestEncapsulation.test" configurationId="JUnit" />
+    <history-entry file="Matching_another - 2019.03.14 at 15h 57m 28s.xml">
+      <configuration name="Matching.another" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestVetTech_test - 2019.02.18 at 18h 44m 44s.xml">
-      <configuration name="TestVetTech.test" configurationId="JUnit" />
+    <history-entry file="Matching_test_case_1 - 2019.03.14 at 16h 10m 34s.xml">
+      <configuration name="Matching.test_case_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestVetTech_test - 2019.02.18 at 18h 45m 43s.xml">
-      <configuration name="TestVetTech.test" configurationId="JUnit" />
+    <history-entry file="Matching - 2019.03.14 at 16h 10m 43s.xml">
+      <configuration name="Matching" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37526652" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32838038" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30299667" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22681564" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3573807" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3128998" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -676,73 +570,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageOne/subPackage/ClassA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/otherPackages/packageTwo/ClassOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/Conversions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/ExceptionHandling.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/LambdaExpressions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/CreatingObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="63" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/codingExamples/Interpreter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/objects/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/TrigCircle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -981,13 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/autoboxing/TestInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1009,20 +833,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/vetTech/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="-68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1033,10 +847,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="124">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/TestThing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/vetTech/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/dims/Dims.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/lambdas/Lambdas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/usingTables/ExperimentWithTables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/Matching2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/Matching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="83" column="1" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
