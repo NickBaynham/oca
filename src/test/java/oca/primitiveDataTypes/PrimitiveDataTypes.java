@@ -1,6 +1,10 @@
 package oca.primitiveDataTypes;
 
 import org.junit.Test;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+
+import static org.junit.Assert.*;
 
 public class PrimitiveDataTypes {
 
@@ -155,5 +159,38 @@ public class PrimitiveDataTypes {
         if (Character.isWhitespace('\t')) {
             System.out.println("White Space");
         }
+    }
+
+    @Test
+    public void operators() {
+        int x = 10, y = (int) (Math.random() * 10);
+        assertTrue(x != y);
+
+        Calendar c1 = Calendar.getInstance();
+        Calendar c2 = Calendar.getInstance();
+        assertFalse(c1 == c2);
+
+        c1 = c2;
+        assertTrue(c1 == c2);
+    }
+
+    @Test
+    public void test2() {
+        Calendar c1 = new GregorianCalendar(2019, 3, 15);
+        tomorrow(c1);
+        int i = 10;
+        addOne(i);
+    }
+
+    private void tomorrow(Calendar c) {
+        System.out.println("Calendar before is: " + c.getTime());
+        c.add(Calendar.DATE, 1);
+        System.out.println("Calendar after is: " + c.getTime());
+    }
+
+    private void addOne(int i) {
+        System.out.println("int before is: " + i);
+        i = i + 1;
+        System.out.println("int after is: " + i);
     }
 }

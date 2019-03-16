@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/dims/Dims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/lambdas/Lambdas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testExamples/Matching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testExamples/Matching2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testExamples/TestThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/usingTables/ExperimentWithTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/casting/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/switches/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/wrappers/Wrappers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oca/arraylists/TestArrayLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/arraylists/TestArrayLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/arraylists/TestArrayLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/vetTech/TestVetTech.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/vetTech/TestVetTech.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/primitiveDataTypes/PrimitiveDataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/primitiveDataTypes/PrimitiveDataTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testExamples/Matching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testExamples/Matching.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,26 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Matching2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/Matching2.java">
+      <file leaf-file-name="Switch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/oca/switches/Switch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Matching.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/Matching.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="83" column="1" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="427">
+              <caret line="38" column="77" selection-start-line="38" selection-start-column="77" selection-end-line="38" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -72,10 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/TrigCircle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestCircle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestTrigCircle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestPlaneCircle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PlaneCircle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Shape.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Circle.java" />
@@ -123,6 +98,10 @@
         <option value="$PROJECT_DIR$/src/test/java/usingTables/ExperimentWithTables.java" />
         <option value="$PROJECT_DIR$/src/test/java/testExamples/Matching2.java" />
         <option value="$PROJECT_DIR$/src/test/java/testExamples/Matching.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/casting/Casting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/wrappers/Wrappers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/switches/Switch.java" />
       </list>
     </option>
   </component>
@@ -133,11 +112,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="y" value="-3" />
+    <option name="width" value="1938" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -145,6 +124,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,7 +225,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylists" type="462c0819:PsiDirectoryNode" />
+              <item name="switches" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
@@ -252,22 +233,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testExamples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="usingTables" type="462c0819:PsiDirectoryNode" />
+              <item name="oca" type="462c0819:PsiDirectoryNode" />
+              <item name="wrappers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,34 +269,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Matching">
+  <component name="RunManager" selected="JUnit.Switch.test2">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Matching" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimitiveDataTypes.operators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="testExamples" />
-      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Matching.another" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="testExamples" />
-      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
-      <option name="METHOD_NAME" value="another" />
+      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
+      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
+      <option name="METHOD_NAME" value="operators" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -335,13 +290,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Matching.stream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimitiveDataTypes.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="testExamples" />
-      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
-      <option name="METHOD_NAME" value="stream" />
+      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
+      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -352,12 +307,12 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Matching.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Switch.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="testExamples" />
-      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
+      <option name="PACKAGE_NAME" value="oca.switches" />
+      <option name="MAIN_CLASS_NAME" value="oca.switches.Switch" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -369,13 +324,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Matching.test_case_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Switch.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="testExamples" />
-      <option name="MAIN_CLASS_NAME" value="testExamples.Matching" />
-      <option name="METHOD_NAME" value="test_case_1" />
+      <option name="PACKAGE_NAME" value="oca.switches" />
+      <option name="MAIN_CLASS_NAME" value="oca.switches.Switch" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Wrappers.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.wrappers" />
+      <option name="MAIN_CLASS_NAME" value="oca.wrappers.Wrappers" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -425,19 +397,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Matching.test" />
-      <item itemvalue="JUnit.Matching.stream" />
-      <item itemvalue="JUnit.Matching" />
-      <item itemvalue="JUnit.Matching.test_case_1" />
-      <item itemvalue="JUnit.Matching.another" />
+      <item itemvalue="JUnit.PrimitiveDataTypes.operators" />
+      <item itemvalue="JUnit.PrimitiveDataTypes.test2" />
+      <item itemvalue="JUnit.Wrappers.test" />
+      <item itemvalue="JUnit.Switch.test" />
+      <item itemvalue="JUnit.Switch.test2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Matching" />
-        <item itemvalue="JUnit.Matching.test_case_1" />
-        <item itemvalue="JUnit.Matching.another" />
-        <item itemvalue="JUnit.Matching.stream" />
-        <item itemvalue="JUnit.Matching.test" />
+        <item itemvalue="JUnit.Switch.test2" />
+        <item itemvalue="JUnit.Switch.test" />
+        <item itemvalue="JUnit.Wrappers.test" />
+        <item itemvalue="JUnit.PrimitiveDataTypes.test2" />
+        <item itemvalue="JUnit.PrimitiveDataTypes.operators" />
       </list>
     </recent_temporary>
   </component>
@@ -481,54 +453,54 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Matching_stream - 2019.03.14 at 14h 41m 58s.xml">
-      <configuration name="Matching.stream" configurationId="JUnit" />
+    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 02m 34s.xml">
+      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Matching_stream - 2019.03.14 at 14h 43m 32s.xml">
-      <configuration name="Matching.stream" configurationId="JUnit" />
+    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 10m 31s.xml">
+      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Matching - 2019.03.14 at 15h 11m 11s.xml">
-      <configuration name="Matching" configurationId="JUnit" />
+    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 12m 06s.xml">
+      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Matching_test_case_1 - 2019.03.14 at 15h 12m 25s.xml">
-      <configuration name="Matching.test_case_1" configurationId="JUnit" />
+    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 15m 40s.xml">
+      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Matching_test_case_1 - 2019.03.14 at 15h 12m 49s.xml">
-      <configuration name="Matching.test_case_1" configurationId="JUnit" />
+    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 17m 26s.xml">
+      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Matching_test_case_1 - 2019.03.14 at 15h 13m 44s.xml">
-      <configuration name="Matching.test_case_1" configurationId="JUnit" />
+    <history-entry file="Wrappers_test - 2019.03.16 at 08h 34m 41s.xml">
+      <configuration name="Wrappers.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Matching_another - 2019.03.14 at 15h 56m 44s.xml">
-      <configuration name="Matching.another" configurationId="JUnit" />
+    <history-entry file="Switch_test - 2019.03.16 at 16h 48m 33s.xml">
+      <configuration name="Switch.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Matching_another - 2019.03.14 at 15h 57m 28s.xml">
-      <configuration name="Matching.another" configurationId="JUnit" />
+    <history-entry file="Switch_test - 2019.03.16 at 16h 50m 05s.xml">
+      <configuration name="Switch.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Matching_test_case_1 - 2019.03.14 at 16h 10m 34s.xml">
-      <configuration name="Matching.test_case_1" configurationId="JUnit" />
+    <history-entry file="Switch_test2 - 2019.03.16 at 16h 54m 26s.xml">
+      <configuration name="Switch.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Matching - 2019.03.14 at 16h 10m 43s.xml">
-      <configuration name="Matching" configurationId="JUnit" />
+    <history-entry file="Switch_test2 - 2019.03.16 at 16h 58m 19s.xml">
+      <configuration name="Switch.test2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32838038" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3273743" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22647059" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22681564" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3573807" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35642457" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3128998" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15492958" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -540,21 +512,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30299667" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35927504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3573807" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32963374" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -574,27 +546,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/TrigCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/oop/TestTrigCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/oop/TestPlaneCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PlaneCircle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -826,13 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/chapter1/InfiniteLoopExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-68">
@@ -914,19 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/Matching2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,9 +865,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
           <caret line="83" column="1" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/Matching2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/casting/Casting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="183" selection-start-line="183" selection-end-line="183" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/wrappers/Wrappers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/switches/Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="38" column="77" selection-start-line="38" selection-start-column="77" selection-end-line="38" selection-end-column="77" />
         </state>
       </provider>
     </entry>
