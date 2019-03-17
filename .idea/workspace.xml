@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/casting/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/switches/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/wrappers/Wrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/games/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/arrays/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/lambdas/MoreLambdas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/oca/primitiveDataTypes/PrimitiveDataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oca/primitiveDataTypes/PrimitiveDataTypes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testExamples/Matching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testExamples/Matching.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,11 +21,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Switch.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/switches/Switch.java">
+      <file leaf-file-name="MoreLambdas.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/oca/lambdas/MoreLambdas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="38" column="77" selection-start-line="38" selection-start-column="77" selection-end-line="38" selection-end-column="77" />
+            <state relative-caret-position="204">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/games/Card.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,9 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PlaneCircle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Circle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestShapes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Centered.java" />
@@ -102,6 +115,9 @@
         <option value="$PROJECT_DIR$/src/test/java/oca/primitiveDataTypes/PrimitiveDataTypes.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/wrappers/Wrappers.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/switches/Switch.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/arrays/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/games/Card.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/lambdas/MoreLambdas.java" />
       </list>
     </option>
   </component>
@@ -187,7 +203,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="nickbaynham" type="462c0819:PsiDirectoryNode" />
-              <item name="vetTech" type="462c0819:PsiDirectoryNode" />
+              <item name="games" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
@@ -225,16 +241,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="switches" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="wrappers" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,17 +276,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Switch.test2">
+  <component name="RunManager" selected="JUnit.MoreLambdas.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PrimitiveDataTypes.operators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Arrays.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
-      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
-      <option name="METHOD_NAME" value="operators" />
+      <option name="PACKAGE_NAME" value="oca.arrays" />
+      <option name="MAIN_CLASS_NAME" value="oca.arrays.Arrays" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -290,13 +297,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="PrimitiveDataTypes.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Arrays.test_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.primitiveDataTypes" />
-      <option name="MAIN_CLASS_NAME" value="oca.primitiveDataTypes.PrimitiveDataTypes" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="oca.arrays" />
+      <option name="MAIN_CLASS_NAME" value="oca.arrays.Arrays" />
+      <option name="METHOD_NAME" value="test_2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MoreLambdas.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.lambdas" />
+      <option name="MAIN_CLASS_NAME" value="oca.lambdas.MoreLambdas" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -331,23 +355,6 @@
       <option name="PACKAGE_NAME" value="oca.switches" />
       <option name="MAIN_CLASS_NAME" value="oca.switches.Switch" />
       <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Wrappers.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.wrappers" />
-      <option name="MAIN_CLASS_NAME" value="oca.wrappers.Wrappers" />
-      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -397,19 +404,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.PrimitiveDataTypes.operators" />
-      <item itemvalue="JUnit.PrimitiveDataTypes.test2" />
-      <item itemvalue="JUnit.Wrappers.test" />
       <item itemvalue="JUnit.Switch.test" />
       <item itemvalue="JUnit.Switch.test2" />
+      <item itemvalue="JUnit.Arrays.test" />
+      <item itemvalue="JUnit.Arrays.test_2" />
+      <item itemvalue="JUnit.MoreLambdas.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MoreLambdas.test" />
+        <item itemvalue="JUnit.Arrays.test_2" />
+        <item itemvalue="JUnit.Arrays.test" />
         <item itemvalue="JUnit.Switch.test2" />
         <item itemvalue="JUnit.Switch.test" />
-        <item itemvalue="JUnit.Wrappers.test" />
-        <item itemvalue="JUnit.PrimitiveDataTypes.test2" />
-        <item itemvalue="JUnit.PrimitiveDataTypes.operators" />
       </list>
     </recent_temporary>
   </component>
@@ -453,35 +460,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 02m 34s.xml">
-      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
+    <history-entry file="Arrays_test_2 - 2019.03.16 at 18h 11m 19s.xml">
+      <configuration name="Arrays.test_2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 10m 31s.xml">
-      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
+    <history-entry file="Arrays_test_2 - 2019.03.16 at 18h 36m 54s.xml">
+      <configuration name="Arrays.test_2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 12m 06s.xml">
-      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
+    <history-entry file="Arrays_test_2 - 2019.03.17 at 10h 10m 06s.xml">
+      <configuration name="Arrays.test_2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 15m 40s.xml">
-      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
+    <history-entry file="Arrays_test_2 - 2019.03.17 at 10h 10m 19s.xml">
+      <configuration name="Arrays.test_2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimitiveDataTypes_test2 - 2019.03.15 at 15h 17m 26s.xml">
-      <configuration name="PrimitiveDataTypes.test2" configurationId="JUnit" />
+    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 40m 24s.xml">
+      <configuration name="MoreLambdas.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Wrappers_test - 2019.03.16 at 08h 34m 41s.xml">
-      <configuration name="Wrappers.test" configurationId="JUnit" />
+    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 40m 32s.xml">
+      <configuration name="MoreLambdas.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Switch_test - 2019.03.16 at 16h 48m 33s.xml">
-      <configuration name="Switch.test" configurationId="JUnit" />
+    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 40m 39s.xml">
+      <configuration name="MoreLambdas.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Switch_test - 2019.03.16 at 16h 50m 05s.xml">
-      <configuration name="Switch.test" configurationId="JUnit" />
+    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 40m 43s.xml">
+      <configuration name="MoreLambdas.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Switch_test2 - 2019.03.16 at 16h 54m 26s.xml">
-      <configuration name="Switch.test2" configurationId="JUnit" />
+    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 43m 56s.xml">
+      <configuration name="MoreLambdas.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Switch_test2 - 2019.03.16 at 16h 58m 19s.xml">
-      <configuration name="Switch.test2" configurationId="JUnit" />
+    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 44m 07s.xml">
+      <configuration name="MoreLambdas.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -493,9 +500,9 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22647059" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5294118" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35642457" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.35588235" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15492958" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -542,31 +549,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/PlaneCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/oop/TestShapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -901,8 +887,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oca/switches/Switch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="38" column="77" selection-start-line="38" selection-start-column="77" selection-end-line="38" selection-end-column="77" />
+        <state relative-caret-position="169">
+          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/arrays/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="955">
+          <caret line="77" column="8" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1980#1981#0" expanded="true" />
+            <element signature="e#2044#2045#0" expanded="true" />
+            <element signature="e#1985#1986#0" expanded="true" />
+            <element signature="e#2021#2022#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2101#2102#0" expanded="true" />
+            <element signature="e#1980#1981#0" expanded="true" />
+            <element signature="e#2010#2011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/games/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/lambdas/MoreLambdas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
