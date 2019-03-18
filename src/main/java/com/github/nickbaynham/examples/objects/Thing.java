@@ -25,4 +25,8 @@ public class Thing {
         this.f = f;
         this.celsius = calculateCelsius();
     }
+
+    public void doStuff() {
+        System.out.println("Doing stuff!");
+    }
 }

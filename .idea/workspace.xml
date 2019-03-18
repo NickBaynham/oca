@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/games/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/arrays/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oca/lambdas/MoreLambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oca/JavaBasics/Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,29 +20,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MoreLambdas.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/oca/lambdas/MoreLambdas.java">
+      <file leaf-file-name="Loops.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/Loops.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="400">
+              <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/games/Card.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/oop/TestShapes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Centered.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Positionable.java" />
@@ -102,7 +88,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/vetTech/Dog.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/chapter6/Strings.java" />
         <option value="$PROJECT_DIR$/src/test/java/testExamples/TestThing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java" />
         <option value="$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/dims/Dims.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/Strings.java" />
@@ -118,6 +103,8 @@
         <option value="$PROJECT_DIR$/src/test/java/oca/arrays/Arrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/games/Card.java" />
         <option value="$PROJECT_DIR$/src/test/java/oca/lambdas/MoreLambdas.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java" />
+        <option value="$PROJECT_DIR$/src/test/java/oca/JavaBasics/Loops.java" />
       </list>
     </option>
   </component>
@@ -129,10 +116,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3" />
-    <option name="y" value="-3" />
-    <option name="width" value="1938" />
-    <option name="height" value="1058" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -241,7 +228,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdas" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaBasics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MoreLambdas.test">
+  <component name="RunManager" selected="JUnit.Loops.test2">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -314,6 +301,40 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="Loops.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.JavaBasics" />
+      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.Loops" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Loops.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oca2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="oca.JavaBasics" />
+      <option name="MAIN_CLASS_NAME" value="oca.JavaBasics.Loops" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="MoreLambdas.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oca2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -321,40 +342,6 @@
       <option name="PACKAGE_NAME" value="oca.lambdas" />
       <option name="MAIN_CLASS_NAME" value="oca.lambdas.MoreLambdas" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Switch.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.switches" />
-      <option name="MAIN_CLASS_NAME" value="oca.switches.Switch" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Switch.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oca2" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="oca.switches" />
-      <option name="MAIN_CLASS_NAME" value="oca.switches.Switch" />
-      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -404,19 +391,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Switch.test" />
-      <item itemvalue="JUnit.Switch.test2" />
       <item itemvalue="JUnit.Arrays.test" />
       <item itemvalue="JUnit.Arrays.test_2" />
       <item itemvalue="JUnit.MoreLambdas.test" />
+      <item itemvalue="JUnit.Loops.test" />
+      <item itemvalue="JUnit.Loops.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Loops.test2" />
+        <item itemvalue="JUnit.Loops.test" />
         <item itemvalue="JUnit.MoreLambdas.test" />
         <item itemvalue="JUnit.Arrays.test_2" />
         <item itemvalue="JUnit.Arrays.test" />
-        <item itemvalue="JUnit.Switch.test2" />
-        <item itemvalue="JUnit.Switch.test" />
       </list>
     </recent_temporary>
   </component>
@@ -460,51 +447,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Arrays_test_2 - 2019.03.16 at 18h 11m 19s.xml">
-      <configuration name="Arrays.test_2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Arrays_test_2 - 2019.03.16 at 18h 36m 54s.xml">
-      <configuration name="Arrays.test_2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Arrays_test_2 - 2019.03.17 at 10h 10m 06s.xml">
-      <configuration name="Arrays.test_2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Arrays_test_2 - 2019.03.17 at 10h 10m 19s.xml">
-      <configuration name="Arrays.test_2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 40m 24s.xml">
+    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 45m 53s.xml">
       <configuration name="MoreLambdas.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 40m 32s.xml">
+    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 45m 58s.xml">
       <configuration name="MoreLambdas.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 40m 39s.xml">
-      <configuration name="MoreLambdas.test" configurationId="JUnit" />
+    <history-entry file="Loops_test - 2019.03.17 at 13h 22m 09s.xml">
+      <configuration name="Loops.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 40m 43s.xml">
-      <configuration name="MoreLambdas.test" configurationId="JUnit" />
+    <history-entry file="Loops_test - 2019.03.17 at 13h 22m 26s.xml">
+      <configuration name="Loops.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 43m 56s.xml">
-      <configuration name="MoreLambdas.test" configurationId="JUnit" />
+    <history-entry file="Loops_test - 2019.03.17 at 13h 23m 01s.xml">
+      <configuration name="Loops.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MoreLambdas_test - 2019.03.17 at 10h 44m 07s.xml">
-      <configuration name="MoreLambdas.test" configurationId="JUnit" />
+    <history-entry file="Loops_test - 2019.03.17 at 13h 24m 27s.xml">
+      <configuration name="Loops.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Loops_test - 2019.03.17 at 13h 25m 17s.xml">
+      <configuration name="Loops.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Loops_test - 2019.03.17 at 13h 33m 03s.xml">
+      <configuration name="Loops.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Loops_test2 - 2019.03.18 at 09h 58m 37s.xml">
+      <configuration name="Loops.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Loops_test2 - 2019.03.18 at 09h 59m 08s.xml">
+      <configuration name="Loops.test2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3273743" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32647058" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5294118" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40223464" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.35588235" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15492958" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12313433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -553,13 +540,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -791,13 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/vetTech/TestVetTech.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="701">
@@ -910,6 +883,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/lambdas/MoreLambdas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/games/Card.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -924,12 +907,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/oca/lambdas/MoreLambdas.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/objects/Thing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="238">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/JavaBasics/Loops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
           </folding>
         </state>
       </provider>
