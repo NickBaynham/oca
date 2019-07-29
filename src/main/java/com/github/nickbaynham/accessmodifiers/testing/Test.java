@@ -7,6 +7,7 @@ import com.github.nickbaynham.accessmodifiers.library.*;
 class Test {
     public static void main(String[] args) {
         House house;                // House is in a different package, so we can declare a reference of type House
+        House.doSomething();
 
         Book book;                  // Book is in a different package, so it's access must be public
         book = new Book("1234");          // A new Book object can be created since Book is public
