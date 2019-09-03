@@ -6,19 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b90f3e46-ea75-4138-9b33-df2209a40b7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/arraylists/ArrayListExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/arrays/SimpleArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/arrays/SortAndSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/arrays/UsingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/ExceptionRules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/FlyingBirds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/ListItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Switcharoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/datetimeformatters/Formatters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/time/WorkingWithTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testExamples/SameClassReference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/accessmodifiers/building/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/accessmodifiers/building/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/accessmodifiers/testing/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/accessmodifiers/testing/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/building/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/building/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/building/StoryBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/building/StoryBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/library/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/library/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/library/CourseBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/library/CourseBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/library/Librarian.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/library/Librarian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/testing/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/nickbaynham/accessmodifiers/testing/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,15 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayListExamples.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/arraylists/ArrayListExamples.java">
+      <file leaf-file-name="FlyingBirds.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/FlyingBirds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#434#442#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -62,14 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Finals.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CoffeeSize.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Coffee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Electronic.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Box.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/TestShapes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/thinkingInJava/simpleObjects/Light.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/thinkingInJava/simpleObjects/FirstProgram.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/FunnyIdea.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Animal.java" />
@@ -113,6 +97,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/arrays/SimpleArrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/arrays/SortAndSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/arraylists/ArrayListExamples.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/time/WorkingWithTime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/datetimeformatters/Formatters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testExamples/SameClassReference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/SuperClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/ExceptionRules.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/ListItems.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Switcharoo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/FlyingBirds.java" />
       </list>
     </option>
   </component>
@@ -123,9 +115,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="width" value="3875" />
-    <option name="height" value="2195" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -133,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,7 +189,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="nickbaynham" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
@@ -206,19 +201,6 @@
               <item name="github" type="462c0819:PsiDirectoryNode" />
               <item name="nickbaynham" type="462c0819:PsiDirectoryNode" />
               <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oca2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="nickbaynham" type="462c0819:PsiDirectoryNode" />
-              <item name="oca" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
@@ -259,12 +241,36 @@
               <item name="oca" type="462c0819:PsiDirectoryNode" />
               <item name="exceptions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oca2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oca" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oca2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oca2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oca2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testExamples" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,29 +301,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListExamples">
-    <configuration name="ArrayListExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.nickbaynham.oca.arraylists.ArrayListExamples" />
+  <component name="RunManager" selected="Application.Switcharoo">
+    <configuration name="ExceptionRules" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.nickbaynham.oca.ExceptionRules" />
       <module name="oca2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SimpleArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.nickbaynham.oca.arrays.SimpleArrays" />
+    <configuration name="Formatters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.nickbaynham.oca.datetimeformatters.Formatters" />
       <module name="oca2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SortAndSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.nickbaynham.oca.arrays.SortAndSearch" />
+    <configuration name="ListItems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.nickbaynham.oca.ListItems" />
       <module name="oca2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.nickbaynham.accessmodifiers.testing.Test" />
+    <configuration name="SameClassReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testExamples.SameClassReference" />
       <module name="oca2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="UsingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.nickbaynham.oca.arrays.UsingArrays" />
+    <configuration name="Switcharoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.nickbaynham.oca.Switcharoo" />
       <module name="oca2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -363,19 +369,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.SimpleArrays" />
-      <item itemvalue="Application.UsingArrays" />
-      <item itemvalue="Application.SortAndSearch" />
-      <item itemvalue="Application.ArrayListExamples" />
+      <item itemvalue="Application.Formatters" />
+      <item itemvalue="Application.SameClassReference" />
+      <item itemvalue="Application.ExceptionRules" />
+      <item itemvalue="Application.ListItems" />
+      <item itemvalue="Application.Switcharoo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListExamples" />
-        <item itemvalue="Application.SortAndSearch" />
-        <item itemvalue="Application.SimpleArrays" />
-        <item itemvalue="Application.UsingArrays" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Switcharoo" />
+        <item itemvalue="Application.ListItems" />
+        <item itemvalue="Application.ExceptionRules" />
+        <item itemvalue="Application.SameClassReference" />
+        <item itemvalue="Application.Formatters" />
       </list>
     </recent_temporary>
   </component>
@@ -451,22 +457,22 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32408434" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32361516" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24052478" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2419825" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3518313" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20858485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4540577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39844617" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -516,73 +522,10 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Finals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/CoffeeSize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Electronic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/TestShapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/thinkingInJava/simpleObjects/Light.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/thinkingInJava/simpleObjects/FirstProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/FunnyIdea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -811,10 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -843,9 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,9 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,12 +815,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/arraylists/ArrayListExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
+        <state relative-caret-position="697">
           <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/time/WorkingWithTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/oca/lambdas/Lambdas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/datetimeformatters/Formatters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/examples/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/ExceptionRules.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#434#442#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testExamples/SameClassReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/ListItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/Switcharoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/nickbaynham/oca/FlyingBirds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>
